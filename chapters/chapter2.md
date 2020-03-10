@@ -1,6 +1,6 @@
 ## Commandes avancées
 
-## Mise à jour : `git fetch`, `git pull`
+## 1. Mise à jour : `git fetch`, `git pull`
 
 # `git pull`
 Récupère la version du dépôt et la fusionne avec la version
