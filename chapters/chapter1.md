@@ -3,7 +3,7 @@ Dans ce chapitre sont présentées les commandes usuelles de `git`
 
 ## Récupération d'un projet
 
-git clone
+`git clone`
 
 ## Commandes de mise à jour
 
@@ -17,3 +17,5 @@ git clone
 
 1. `git mv`
 2. `git rm`
+3. `git status`
+
